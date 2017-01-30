@@ -1,0 +1,686 @@
+/* Small Mobile */
+@media only screen and (max-width: 379px){
+  body{
+    width: 100%;
+    max-width: 100%;
+    min-width: 100%;
+  }
+  #sz_stickScroll{
+    width: 100%;
+  }
+  #sz_upperMain{
+    width: 100%;
+    height: 80%;
+  }
+  #sz_firstBody{
+    width: 100%;
+  }
+  #sz_secoundBody{
+    width: 100%;
+  }
+  #sz_impressum{
+    width: 100%;
+  }
+  .sz_socialMedia{
+    width: 7.5%;
+    position: fixed;
+    display: inline-block;
+    height: 3.5%;
+    margin-top: 2.5%;
+  }
+  #sz_secoundButton{
+    margin-top: 5%;
+    margin-left: 0%;
+  }
+  #sz_buttonRow{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: block;
+    margin-top: 5%;
+  }
+  #sz_mainButtonUp{
+    margin-top: 5%;
+    width: 20%;
+  }
+  .sz_normalFont{
+    font-size: 1.0em;
+  }
+  .sz_mediumFont{
+    font-size: 1.0em;
+  }
+  #sz_heading{
+    font-size: 1.6em;
+    margin-top: 45%;
+  }
+  .sz_head{
+    font-size: 1.4em;
+    margin-top: 3%;
+  }
+  .sz_h4{
+    font-size: 1.3em;
+  }
+  #sz_stickyRow{
+    width: 70%;
+    display: block;
+  }
+  #sz_stickyScroll{
+    display: block;
+  }
+  .sz_hoverRow{
+    display: none;
+  }
+  #sz_trigger1, #sz_trigger2 , #sz_trigger3{
+    display: none;
+  }
+  #sz_mainButtonUp{
+    width: 35%;
+    position: fixed;
+    height: 3%;
+    right: 5%;
+    margin-top: 1%;
+  }
+  #sz_firstBody{
+    top: 110%;
+    height: 130%;
+  }
+  #sz_secoundBody{
+    top: 240%;
+    height: 70%;
+  }
+  .sz_media{
+    width: 30%;
+  }
+  .sz_logoDesign{
+    width: 10%;
+  }
+  #sz_twitter{
+    width: 30%;
+  }
+  #sz_impressum{
+    top: 320%;
+    height: 55%;
+  }
+  .sz_top{
+    margin-top: 5%;
+  }
+  #sz_firstMedia{
+    position: fixed;
+    left: 5%;
+  }
+  #sz_secoundMedia{
+    position: fixed;
+    left: 15%;
+  }
+  #sz_thirdMedia{
+    position: fixed;
+    left: 25%;
+  }
+  #sz_firstpicture{
+    display: none;
+  }
+  .h1{
+    font-size: 3em;
+  }
+  #sz_linkbar{
+    margin-left: 5%;
+  }
+  #sz_bottomFloatdownload{
+    margin-left: 15%;
+  }
+}
+
+@media only screen and (min-width: 380px) and (max-width: 479px){
+  body{
+    width: 100%;
+    max-width: 100%;
+    min-width: 100%;
+  }
+  #sz_stickScroll{
+    width: 100%;
+  }
+    #sz_upperMain{
+      width: 100%;
+      height: 80%;
+    }
+    #sz_firstBody{
+      top: 80%;
+      height: 100%;
+      width: 100%;
+    }
+    #sz_secoundBody{
+      top: 180%;
+      height: 110%;
+      width: 100%;
+    }
+    #sz_thirdBody{
+      top: 290%;
+      height: 50%;
+    }
+    #sz_impressum{
+      top: 340%;
+      height: 60%;
+      width: 100%;
+    }
+  .sz_socialMedia{
+    width: 7.5%;
+    position: fixed;
+    display: inline-block;
+    height: 3.5%;
+    margin-top: 2.5%;
+  }
+  #sz_secoundButton{
+    margin-top: 5%;
+    margin-left: 0%;
+  }
+  #sz_buttonRow{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: block;
+    margin-top: 5%;
+  }
+  #sz_mainButtonUp{
+    margin-top: 5%;
+    width: 20%;
+  }
+  .sz_normalFont{
+    font-size: 1.0em;
+  }
+  .sz_mediumFont{
+    font-size: 1.0em;
+  }
+  .sz_bigFont{
+    font-size: 1.2em;
+  }
+  #sz_heading{
+    font-size: 1.6em;
+    margin-top: 20%;
+  }
+  .sz_head{
+    font-size: 1.4em;
+    margin-top: 5%;
+  }
+  .sz_h4{
+    font-size: 1.5em;
+  }
+  #sz_stickyRow{
+    width: 70%;
+    display: block;
+  }
+  #sz_stickyScroll{
+    display: block;
+  }
+  .sz_hoverRow{
+    display: none;
+  }
+  #sz_trigger1, #sz_trigger2 , #sz_trigger3{
+    display: none;
+  }
+  #sz_mainButtonUp{
+    width: 35%;
+    position: fixed;
+    height: 3%;
+    right: 5%;
+    margin-top: 1%;
+  }
+  #sz_iphonePicture1{
+    margin-top: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+  }
+  #sz_iphonePicture2{
+    width: 100%;
+    margin-top: 20%;
+    display: block;
+  }
+  .sz_media{
+    width: 30%;
+  }
+  .sz_logoDesign{
+    width: 10%;
+  }
+  #sz_twitter{
+    width: 30%;
+  }
+  #sz_impressum{
+    top: 340%;
+    height: 55%;
+  }
+  .sz_top{
+    margin-top: 5%;
+  }
+  #sz_firstMedia{
+    position: fixed;
+    left: 5%;
+  }
+  #sz_secoundMedia{
+    position: fixed;
+    left: 15%;
+  }
+  #sz_thirdMedia{
+    position: fixed;
+    left: 25%;
+  }
+  #sz_firstpicture{
+    display: none;
+  }
+  #sz_secoundpicture{
+    margin-top: -70%;
+    width: 110%;
+    margin-left: -5%;
+  }
+  .h1{
+    font-size: 3em;
+  }
+  #sz_linkbar{
+    margin-left: 7.5%;
+  }
+  #sz_bottomFloatdownload{
+    margin-left: 12.5%;
+  }
+  h2{
+    font-size: 2em;
+  }
+}
+
+/* Mobile */
+@media only screen and (min-width: 480px) and (max-width: 549px){
+  body{
+    width: 100%;
+    max-width: 100%;
+    min-width: 100%;
+  }
+  .sz_bigFont{
+    font-size: 1.3em;
+  }
+  .sz_h4{
+    font-size: 1.5em !important;
+  }
+  #sz_stickScroll{
+    width: 100%;
+  }
+  #sz_upperMain{
+    width: 100%;
+    height: 80%;
+  }
+  #sz_firstBody{
+    top: 80%;
+    height: 140%;
+    width: 100%;
+  }
+  #sz_secoundBody{
+    top: 220%;
+    height: 110%;
+    width: 100%;
+  }
+  #sz_thirdBody{
+    top: 330%;
+    height: 50%;
+  }
+  #sz_impressum{
+    top: 380%;
+    height: 60%;
+    width: 100%;
+  }
+  .sz_socialMedia{
+    width: 7.5%;
+    position: fixed;
+    display: inline-block;
+    height: 3.5%;
+    margin-top: 2.5%;
+  }
+  #sz_secoundButton{
+    margin-top: 5%;
+    margin-left: 0%;
+  }
+  #sz_buttonRow{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: block;
+    margin-top: 5%;
+  }
+  #sz_mainButtonUp{
+    margin-top: 5%;
+    width: 20%;
+  }
+  .sz_normalFont{
+    font-size: 1.0em;
+  }
+  .sz_mediumFont{
+    font-size: 1.0em;
+  }
+  #sz_heading{
+    font-size: 1.6em;
+    margin-top: 45%;
+  }
+  .sz_head{
+    font-size: 1.4em;
+    margin-top: 5%;
+  }
+  .sz_h4{
+    font-size: 1.3em;
+  }
+  #sz_stickyRow{
+    width: 70%;
+    display: block;
+  }
+  #sz_stickyScroll{
+    display: block;
+  }
+  .sz_hoverRow{
+    display: none;
+  }
+  #sz_trigger1, #sz_trigger2 , #sz_trigger3{
+    display: none;
+  }
+  #sz_mainButtonUp{
+    width: 35%;
+    position: fixed;
+    height: 3%;
+    right: 5%;
+    margin-top: 1%;
+  }
+  #sz_firstpicture{
+    display: none;
+  }
+  #sz_secoundpicture{
+    margin-top: 10%;
+    width: 110%;
+    margin-left: -5%;
+  }
+  .sz_media{
+    width: 30%;
+  }
+  .sz_logoDesign{
+    width: 10%;
+  }
+  #sz_twitter{
+    width: 30%;
+  }
+  .sz_top{
+    margin-top: 5%;
+  }
+  #sz_firstMedia{
+    position: fixed;
+    left: 5%;
+  }
+  #sz_secoundMedia{
+    position: fixed;
+    left: 15%;
+  }
+  #sz_thirdMedia{
+    position: fixed;
+    left: 25%;
+  }
+  .sz_h4{
+    font-size: 1.5em !important;
+  }
+  .h1{
+    font-size: 3em;
+  }
+  #sz_linkbar{
+    margin-left: 5%;
+  }
+  #sz_bottomFloatdownload{
+    margin-left: 10%;
+  }
+  h2{
+    font-size: 2em;
+  }
+}
+
+/*Small Tablet // Grid System working !!!! */
+
+@media only screen and (min-width: 550px) and (max-width: 749px){
+  #sz_heading{
+    font-size: 1.8em;
+    margin-top: 60%;
+  }
+  #sz_heading, #sz_buttonRow, .sz_text{
+    margin-right: -100%;
+  }
+  .sz_head{
+    font-size: 1.4em;
+    margin-top: 5%;
+  }
+  .sz_h4{
+    font-size: 1.3em;
+  }
+  #sz_firstpicture{
+    display: none;
+  }
+  #sz_secoundpicture{
+    margin-top: 20%;
+    width: 110%;
+    margin-left: -10%
+  }
+  #sz_display{
+    display: none;
+  }
+  .sz_hoverRow{
+    display: none;
+  }
+  .sz_socialMedia{
+    width: 95%;
+    margin-top: 15%;
+  }
+  .sz_normalFont{
+    font-size: 1.0em;
+  }
+  .sz_mediumFont{
+    font-size: 1.0em;
+  }
+  .sz_bigFont{
+    font-size: 1.4em;
+  }
+  #sz_linkbarmain{
+    margin-left: 15%;
+  }
+  .sz_top{
+    margin-top: 0%;
+  }
+  .sz_up{
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+    font-size: 0.95em;
+  }
+  #sz_mainButtonUp{
+    font-size: 0.7em;
+    margin-left: 5%;
+    padding: 5%;
+  }
+  #sz_firstBody{
+    top: 100%;
+    height: 92%;
+    width: 100%;
+  }
+  #sz_secoundBody{
+    top: 172%;
+  }
+  #sz_thirdBody{
+    top: 247%;
+  }
+  #sz_impressum{
+    top: 322%;
+  }
+  #sz_impressumName{
+    font-size: 0.7em;
+  }
+  #sz_secoundButton{
+    margin-top: 5%;
+    margin-left: 0%;
+  }
+  .sz_media, #sz_twitter{
+    width: 50%;
+  }
+  .h1{
+    font-size: 3em;
+  }
+  #sz_linkbar{
+    margin-left: 10%;
+  }
+  #sz_bottomFloatdownload{
+    margin-left: 15%;
+  }
+  h2{
+    font-size: 2em;
+  }
+}
+
+/* Large Tablet */
+
+
+@media only screen and (min-width: 750px) and (max-width: 999px){
+    .sz_top{
+      margin-top: 5%;
+      font-size: 1.0em;
+    }
+    #sz_linkbarmain{
+      margin-left: 15%;
+    }
+    #sz_heading{
+      margin-top: 45%;
+    }
+    .sz_normalFont{
+      font-size: 1.05em;
+    }
+    .sz_head{
+      font-size: 1.9em;
+      margin-top: 5%;
+    }
+    .sz_mediumFont{
+      font-size: 1.2em;
+    }
+    .sz_bigFont{
+      font-size: 1.7em;
+    }
+    .sz_media, #sz_twitter{
+      width: 60%;
+    }
+    #sz_firstpicture{
+      margin-top: 25%;
+      width: 60%;
+      margin-left: -5%;
+    }
+    #sz_secoundpicture{
+      margin-top: 12.5%;
+      width: 100%;
+      margin-left: -5%
+    }
+    #sz_logo{
+      width: 15%;
+      margin-top: 2.5%;
+    }
+    #sz_impressum{
+      height: 50%;
+    }
+    .sz_hoverRow{
+      display: none;
+    }
+    .sz_h4{
+      font-size: 1.5em;
+    }
+    #sz_secoundButton{
+      margin-top: 5%;
+      margin-left: 0%;
+    }
+    .h1{
+      font-size: 3em;
+    }
+    #sz_linkbar{
+      margin-left: 20%;
+    }
+    #sz_bottomFloatdownload{
+      margin-left: 25%;
+    }
+    h2{
+      font-size: 2em;
+    }
+}
+
+
+/* Small Desktop */
+
+@media only screen and (min-width: 1000px) and (max-width: 1199px){
+    .sz_h4{
+      font-size: 1.5em;
+    }
+    .sz_heading{
+      margin-top: 45%;
+    }
+    #sz_firstpicture{
+      margin-top: 15%;
+      width: 55%;
+    }
+    #sz_secoundpicture{
+      margin-top: 7.5%;
+      width: 100%;
+      margin-left: 0%
+    }
+    #sz_logo{
+      margin-top: 1%;
+    }
+    #sz_impressum{
+      height: 55%;
+    }
+    .sz_top{
+      margin-top: 7%;
+    }
+    .sz_normalFont{
+      font-size: 1.1em;
+    }
+    .sz_head{
+      font-size: 2.3em;
+      margin-top: 5%;
+    }
+    #sz_secoundButton{
+      margin-top: 5%;
+      margin-left: 0%;
+    }
+    #sz_linkbar{
+      margin-left: 25%;
+      margin-top: 10%;
+    }
+    #sz_bottomFloatdownload{
+      margin-left: 25%;
+    }
+
+}
+
+/* Large Desktop // Default!!!! */
+@media only screen and (min-width: 1200px){
+    #sz_firstpicture{
+      margin-top: 15%;
+      width: 58%;
+    }
+    .sz_head{
+      margin-top: 5%;
+    }
+    #sz_logo{
+      margin-top: 1%;
+    }
+    #sz_impressum{
+      height: 60%;
+      top: 350%;
+    }
+    .sz_top{
+      margin-top: 12%;
+    }
+    #sz_firstBody{
+      top: 100%;
+      height: 120%;
+    }
+    #sz_secoundBody{
+      top: 220%;
+    }
+    #sz_thirdBody{
+      top: 290%;
+    }
+    .sz_head{
+      margin-top: 45% !important;
+    }
+    #sz_linkbar{
+      margin-top: 10%;
+    }
+  }
